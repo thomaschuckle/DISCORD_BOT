@@ -3,3 +3,4 @@
 .vscode/
 __pycache__/
 OPENAI_API_KEY.txt
+*.code-workspace
