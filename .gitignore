@@ -1,0 +1,5 @@
+.ipynb*/
+.venv*/
+.vscode/
+__pycache__/
+OPENAI_API_KEY.txt
