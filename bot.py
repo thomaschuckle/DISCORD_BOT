@@ -114,7 +114,7 @@ def run_bot():
                         temp = curr
                         curr += prev
                         prev = temp
-                    await message.channel.send(f'There are {curr} ways to reach the top of a staircase of length {num}!')
+                    await message.channel.send(f'There are {curr} ways to reach the top of a staircase of length {steps}!')
                 
 
                 #7th command, play rock paper scissor.        
